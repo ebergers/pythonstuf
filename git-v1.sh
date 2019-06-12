@@ -35,7 +35,7 @@ git commit -m "$input"
 
 # Push the local files to github
 
-git push -u pythonstuf master
+git push -u https://github.com/ebergers/pythonstuf.git master
 
 
 echo "################################################################"
